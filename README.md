@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiieh0cPG47QXT2YDWPi3dqvtQBbj-TqjuZw&s)](https://raviranjany)
+
 
 <h1 align="center">Hi 👋, I'm Raviranjan Kumar</h1>
 <h3 align="center">A passionate Full Stack, Web Developer, React.js, Frontend Developer.</h3>
