@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Raviranjan Kumar</h1>
-<h3 align="center">A passionate Full Stack, Web Developer, React.js, Frontend Developer.</h3>
+<h3 align="center">A passionate Full Stack,MERN Stack, Web Developer, React.js, Frontend Developer, Backend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviranjany&label=Profile%20views&color=0e75b6&style=flat" alt="raviranjany" /> </p>
 
