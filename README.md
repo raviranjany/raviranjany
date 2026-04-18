@@ -1,19 +1,19 @@
 
 
 <h1 align="center">Hi 👋, I'm Raviranjan Kumar</h1>
-<h3 align="center">A passionate Full Stack,MERN Stack, Web Developer, React.js, Frontend Developer, Backend Developer.</h3>
+<h3 align="center">A passionate Full Stack(MERN) Developer, Web Developer, React.js, Frontend Developer, Backend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviranjany&label=Profile%20views&color=0e75b6&style=flat" alt="raviranjany" /> </p>
 
 - 🔭 I’m currently working on **Dashboard project**
 
-- 🌱 I’m currently learning **Node.js and Express.js**
+- 🌱 I’m currently improving my skills in **Node.js and Express.js**
 
-- 👨‍💻 All of my projects are available at [https://raviranjany.vercel.app/](https://raviranjany.vercel.app/)
+- 👨‍💻 Explore my work:https://raviranjany.vercel.app/
 
-- 💬 Ask me about **React.js, Node.js**
+-  💬 Ask me about building scalable **React apps or REST APIs with Node.js**
 
-- 📫 How to reach me **raviranjany129@gmail.com**
+- 📫 Reach me at: **raviranjany129@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
